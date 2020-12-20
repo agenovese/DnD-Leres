@@ -1,2 +1,2 @@
 # DnD-Leres
-Source files for my D&amp;D Setting
+Wiki and related files for my D&amp;D Setting
